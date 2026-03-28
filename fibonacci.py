@@ -8,3 +8,4 @@ def fibonacci(n):
 
 n = int(input("Enter number of terms: "))
 fibonacci(n)
+print("\nExecution completed")
